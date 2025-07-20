@@ -1,6 +1,7 @@
 # BeanInator
 Device that automatically weighs  and dispenses the perfect ammount of coffee into your grinder every time.
 <img width="1702" height="1448" alt="image" src="https://github.com/user-attachments/assets/ebdef964-046e-4983-8a2a-e91b71f1844e" />
+<img width="1401" height="1482" alt="image" src="https://github.com/user-attachments/assets/238c624d-cc9d-4d33-8eb1-4ebdd2a92c5a" />
 
 ## Why Does this exist
 I have always wanted to make something like this to save me time in the morning morning. Taking the 3 minutes to weigh out the beans manually is the largest waste of time I have ever taken part of and in order to become the most efficient being on earth and ascend to a higher plane of existance I need to have something automatically weigh my coffee beans.
