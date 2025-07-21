@@ -1,10 +1,38 @@
 # BeanInator
-Device that automatically weighs  and dispenses the perfect ammount of coffee into your grinder every time.
+### Device that automatically weighs  and dispenses the perfect ammount of coffee into your grinder every time.
 <img width="1702" height="1448" alt="image" src="https://github.com/user-attachments/assets/ebdef964-046e-4983-8a2a-e91b71f1844e" />
 <img width="1401" height="1482" alt="image" src="https://github.com/user-attachments/assets/238c624d-cc9d-4d33-8eb1-4ebdd2a92c5a" />
 
 ## Why Does this exist
 I have always wanted to make something like this to save me time in the morning morning. Taking the 3 minutes to weigh out the beans manually is the largest waste of time I have ever taken part of and in order to become the most efficient being on earth and ascend to a higher plane of existance I need to have something automatically weigh my coffee beans.
+
+## Assembly
+1. print each part from the step file! MAKE SURE you print the auger sideways
+2. Screw the gear with 3 holes into the load cell
+3. <img width="1805" height="1555" alt="image" src="https://github.com/user-attachments/assets/28a7b342-8c8a-443b-abcf-2288ad88075a" />=
+4. Screw that into the base!
+5.<img width="1654" height="1287" alt="image" src="https://github.com/user-attachments/assets/435b148a-0ce6-4425-a521-38e3adc89760" />
+6. Screw the 180 deg servo into the gear for it
+7.<img width="1091" height="837" alt="image" src="https://github.com/user-attachments/assets/11229fe3-ee9f-4600-801d-8a3d329f455f" />
+8. Screw that into the base
+9. <img width="1550" height="1394" alt="image" src="https://github.com/user-attachments/assets/c6f011eb-42fc-4039-ba99-d584651fc481" />
+10. Screw the tray onto the other end of the load cell
+11. <img width="1698" height="1510" alt="image" src="https://github.com/user-attachments/assets/0e08b90e-bfec-46a6-9317-c0d7988165b8" />
+12. insert the auger into the top
+13. <img width="1652" height="1500" alt="image" src="https://github.com/user-attachments/assets/5ca762fe-3e61-4d5c-a128-3bbce466905c" />
+14. Screw the side plate onto the top
+15. <img width="1648" height="1405" alt="image" src="https://github.com/user-attachments/assets/d862f109-8709-4db4-9558-1291d33afb4b" />
+16. put a screw through the backplate, gear, and auger
+17. <img width="1098" height="1563" alt="image" src="https://github.com/user-attachments/assets/379592c1-6407-4a9a-88d8-2549919b8fe9" />
+18. screw the gear onto the top servo
+19.<img width="1397" height="1582" alt="image" src="https://github.com/user-attachments/assets/96da3ac3-9c5d-4063-9f16-5bc13904989b" />
+20. screw the top servo onto the top side plate
+21. <img width="1587" height="1537" alt="image" src="https://github.com/user-attachments/assets/0e9b1cfd-3f4d-4022-976e-a4ad845d8264" />
+22. Screw the top peice onto the bottom
+23. <img width="1372" height="1065" alt="image" src="https://github.com/user-attachments/assets/398b7d39-1ec9-4ea1-9fe4-27721f417b2e" />
+24. Hook up everything according to this diagram
+25. <img width="1399" height="828" alt="image" src="https://github.com/user-attachments/assets/9a6f507e-664f-4989-9dd5-4b38865a53b0" />
+26. put the electronics on the sides of the top piece using double sided tape or hot glue
 
 |Part|Cost|Use|link|
 |-----|------|------|-----|
