@@ -13,3 +13,10 @@ Today I decided to finally start work on this project after having the idea fore
 <img width="1473" height="1492" alt="image" src="https://github.com/user-attachments/assets/ca72f679-57e2-483a-b95b-83ab8f9d78cb" />
 
 **Total time spent: 7h**
+
+# 7/30/2025: Updated some tolerances and strengthened the auger mount!
+
+Today I updated the tolerances of the model after printing it and realizing they were a tad too tight. I also updated the auger to use 2 screws instead of one.
+<img width="679" height="476" alt="image" src="https://github.com/user-attachments/assets/daeb6d81-ffe4-4f95-82d5-755c24a7cda5" />
+
+**Total time spent: 2h** 
