@@ -3,7 +3,7 @@ title: "BeanInator"
 author: "meepodeep"
 description: "Automatic weighted coffee bean dispenser!"
 created_at: "2025-07-20"
-final time: "7h"
+final time: "9h"
 ---
 # 7/20/2025: Made the cad model and outlined the code!
 
